@@ -25,6 +25,6 @@ createApp({
             }).catch((error) => {
                 console.error(error);
             });
-        }
+        },
     }
 }).mount('#app');
